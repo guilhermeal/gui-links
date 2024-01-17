@@ -2,10 +2,9 @@
 
 This is a personal website for GuilhermeAL, a software developer. The website is built with HTML, CSS, and JavaScript. It features a profile section with an avatar, username, and links to social media profiles. There is also a section with links to GitHub projects, and a footer with a message and a link to the developer's portfolio.
 
-Gui Links é um agregador de links responsivo e com troca de tema que você pode usar como cartão de visitas nas suas redes sociais.
+Gui Links is a responsive, theme-switching link aggregator that you can use as a business card on your social networks.
 
-Esse projeto é desenvolvido com HTML, CSS e JavaScript no Discover, o nosso programa 100% gratuito para aprender programação do zero e na prática.
-
+This project is developed with HTML, CSS and JavaScript on Discover, our 100% free program to learn programming from scratch and in practice.
 
 
 ## Step-by-Step Explanation
